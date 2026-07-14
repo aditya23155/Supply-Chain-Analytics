@@ -44,7 +44,6 @@ Supply-Chain-Analytics/
 │
 ├── README.md
 ├── requirements.txt
-└── LICENSE
 ```
 
 ---
